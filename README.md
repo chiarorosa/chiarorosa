@@ -1,6 +1,8 @@
 ## Oi, eu sou o Pablo.
-🖖 Gestor de I.A. | Mentor
+🖖 Gestor de I.A. & Mentor
+
 🤓 Mestre em Ciência da Computação e Doutorando, Professor Universitário e apaixonado por programação e cultura Nerd!
+
 👨‍💻 + 10 anos estudando e trabalhando na área
  
 <div> 
