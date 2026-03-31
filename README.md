@@ -16,13 +16,4 @@
   <img align="center" alt="chiarorosa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">|
   <img align="center" alt="chiarorosa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="chiarorosa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="chiarorosa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">|
-  <img align="center" alt="chiarorosa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="chiarorosa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-
-<br/>
-
-[![chiarorosa GitHub stats](https://github-readme-stats.vercel.app/api?username=chiarorosa&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/chiarorosa?tab=repositories)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiarorosa&theme=tokyonight)](https://github.com/chiarorosa?tab=repositories)
