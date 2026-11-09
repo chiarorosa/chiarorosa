@@ -34,7 +34,7 @@ PRs revisados e aceitos pelos mantenedores. Clique no badge para ver a lista.
 
 **[claude-codex-taskbar](https://github.com/chiarorosa/claude-codex-taskbar)** · Rust · MIT
 Limites de uso do Claude Code e do Codex CLI direto na barra de tarefas do Windows. Executável nativo com menos de 1 MB, releases com atestado de proveniência assinado.
-Apresentado na comunidade [openai/codex](https://github.com/openai/codex/discussions/58359) · listado em [awesome-vibe-coding-resources](https://github.com/acvnace/awesome-vibe-coding-resources)
+Apresentado na comunidade [openai/codex](https://github.com/openai/codex/discussions/58359)
 
 ---
 
